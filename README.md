@@ -29,7 +29,7 @@
 ## 링크
 
 [네이버](http://naver.com)
-![네이버](https://ssl.pstatic.net/tveta/libs/1299/1299749/877da8d17545b3ceb887_20200928140044997.jpg)
+![구글이미지](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 ```
 int a = 100;
 b = a;
