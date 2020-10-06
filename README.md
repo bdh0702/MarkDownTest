@@ -41,3 +41,9 @@ b = a;
 - [ ] 마크다운 연습
 - [ ] 오라클 공부
 - [ ] git 명령어 
+
+```java
+public static void main(String args[]){
+  System.out.println("Hello World");
+}
+```
