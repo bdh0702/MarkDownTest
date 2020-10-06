@@ -32,7 +32,7 @@
 
 구글 이미지 
 ![구글이미지](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
-```
+```java
 int a = 100;
 b = a;
 ```
